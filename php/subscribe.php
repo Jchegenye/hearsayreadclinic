@@ -48,7 +48,7 @@ if(trim($email) == '') {
 
 //$address = "example@example.net";
 
-$address = "info@ccde.co.ke";
+$address = "chegenyejackson@gmail.com";
 
 
 
